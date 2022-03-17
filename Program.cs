@@ -11,7 +11,7 @@ namespace vjezba1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello!");
-            Console.WriteLine("novo");
+            Console.WriteLine("Ja san nesto napravia!");
         }
     }
 }
